@@ -1,5 +1,5 @@
 # Conway-s-Game-of-Life.py
-the graphic is pretty much absent
+# Conway-s-Game-of-Life.py
 import numpy as np
 import random
 
